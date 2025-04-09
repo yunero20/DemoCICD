@@ -3,10 +3,10 @@ name: Java Test
 on:
   pull_request:
     branches:
-      - Main
+      - main
   push:
     branches:
-      - Main
+      - main
 jobs:
   build:
     name: Test on windows
