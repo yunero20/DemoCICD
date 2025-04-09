@@ -8,6 +8,6 @@ public class calculator implements Icalculator{
     }
 
     public Integer sub(Integer a, Integer b) {
-        return 0;
+        return a-b;
     }
 }
